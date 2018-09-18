@@ -1,0 +1,6 @@
+
+github_username: eanar
+
+# Build settings
+markdown: kramdown
+theme: tactile
