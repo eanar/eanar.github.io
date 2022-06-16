@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: eanar.github.io
+Token: ca21404967e3fc7dd1846271e0d2efeabe0790525f62c0064ecea3745fa390e7

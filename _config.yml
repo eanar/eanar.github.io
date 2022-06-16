@@ -4,3 +4,4 @@ github_username: eanar
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
+include: [".well-known"]
